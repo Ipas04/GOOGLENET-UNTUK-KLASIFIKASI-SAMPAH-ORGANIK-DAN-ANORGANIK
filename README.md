@@ -1,6 +1,8 @@
 # 📦 Project Overview
 
 Repository ini berisi implementasi model klasifikasi citra untuk pemilahan sampah menggunakan Convolutional Neural Network (CNN).
+`min2.ipynb`
+https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/15793
 
 ## 📂 Struktur File
 
